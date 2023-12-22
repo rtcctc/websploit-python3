@@ -1,5 +1,7 @@
 ## [WebSploit Framework](https://github.com/The404Hacking/websploit)
 
+ORIGINAL: https://github.com/The404Hacking/websploit
+
 ![Screenshot](Screenshot.png?raw=ture "Screenshot")
 
 Project in SourceForge : http://sourceforge.net/projects/websploit
@@ -34,9 +36,9 @@ General Public License already, we have provided another one in the
   [+]Wifi Mass De-authentication attack
 
 ## Download and Clone
-> Download: [https://github.com/The404Hacking/websploit/archive/master.zip](https://github.com/The404Hacking/websploit/archive/master.zip)
+> Download: [https://github.com/The404Hacking/websploit/archive/master.zip](https://github.com/The404Hacking/websploit-python3/archive/master.zip)
 
-> Clone: git clone [https://github.com/The404Hacking/websploit.git](https://github.com/The404Hacking/websploit.git)
+> Clone: git clone [https://github.com/The404Hacking/websploit.git](https://github.com/The404Hacking/websploit-python3.git)
 
 ## The404Hacking | Digital UnderGround Team
 [The404Hacking](https://T.me/The404Hacking)
